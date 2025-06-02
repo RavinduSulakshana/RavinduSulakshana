@@ -22,4 +22,9 @@ Database Management: Organizing and managing data with tools like SQL.
 API Development: Building connections between different systems to share data.
 Learning by Doing: Improving my skills through hands-on projects.
 
-Thanks for checking out my profile!
+My Repositories
+
+javascript_complete_exercises: A collection of JavaScript exercises to practice coding.
+myApp: A project I’m working on to build a functional application.
+
+Thanks for checking out my profile! prolly should add some social links here
