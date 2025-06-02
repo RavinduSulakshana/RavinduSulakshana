@@ -1,20 +1,6 @@
 # Hi 👋, I am Ravindu Sulakshana
 
-I'm a backend developer who builds reliable and efficient systems. I focus on creating projects that handle data well and keep things running smoothly. Check out [Ravindu Sulakshana's GitHub Stats](#).
-
-## Ravindu Sulakshana's GitHub Stats
-
-- ⭐ Total Stars Earned: 15
-- 💾 Total Commits (2025): 150
-- 🔧 Total PRs: 10
-- 🤝 Contributed to (last year): 5
-
-## Most Used Languages
-
-- Python: 40%
-- JavaScript: 30%
-- Java: 20%
-- SQL: 10%
+I'm a backend developer who builds reliable and efficient systems. I focus on creating projects that handle data well and keep things running smoothly.
 
 ## Skills
 
@@ -32,8 +18,3 @@ I'm a backend developer who builds reliable and efficient systems. I focus on cr
 ## Thanks for checking out my profile!
 
 I should probably add some social links here.
-
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RavinduSulakshana&show_icons=true&theme=dark)](https://github.com/RavinduSulakshana)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduSulakshana&theme=dark)](https://github.com/RavinduSulakshana)
