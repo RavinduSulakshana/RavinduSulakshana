@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi 👋, I AM Ravindu Sulakshana
+I’m a backend developer who builds reliable and efficient systems. I focus on creating projects that handle data well and keep things running smoothly.
+Ravindu Sulakshana's GitHub Stats
 
-<!--
-**RavinduSulakshana/RavinduSulakshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Total Stars Earned: 15
+🔄 Total Commits (2025): 150
+📋 Total PRs: 10
+📦 Contributed to (last year): 5
 
-Here are some ideas to get you started:
+Most Used Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python: 40%
+JavaScript: 30%
+Java: 20%
+SQL: 10%
+
+Skills
+
+Backend Development: Writing code for servers and databases to keep applications running.
+System Design: Planning how different parts of a system work together.
+Database Management: Organizing and managing data with tools like SQL.
+API Development: Building connections between different systems to share data.
+Learning by Doing: Improving my skills through hands-on projects.
+
+Thanks for checking out my profile!
