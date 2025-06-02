@@ -1,7 +1,9 @@
 
 # Hi 👋, I am Ravindu Sulakshana
 
-I'm a backend developer who builds reliable and efficient systems. I focus on creating projects that handle data well and keep things running smoothly. Check out [Ravindu Sulakshana's GitHub Stats](#).
+I'm a backend developer who builds reliable and efficient systems. I focus on creating projects that handle data well and keep things running smoothly. Check out [Ravindu Sulakshana's GitHub Stats](#).  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduSulakshana&theme=dark&layout=compact)](https://github.com/RavinduSulakshana)  
 
 ## Ravindu Sulakshana's GitHub Stats
 
@@ -36,4 +38,3 @@ I should probably add some social links here.
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduSulakshana&theme=dark&layout=compact)](https://github.com/RavinduSulakshana)
