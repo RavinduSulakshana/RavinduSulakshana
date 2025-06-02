@@ -1,30 +1,39 @@
-Hi 👋, I AM Ravindu Sulakshana
-I’m a backend developer who builds reliable and efficient systems. I focus on creating projects that handle data well and keep things running smoothly.
-Ravindu Sulakshana's GitHub Stats
+# Hi 👋, I am Ravindu Sulakshana
 
-🌟 Total Stars Earned: 15
-🔄 Total Commits (2025): 150
-📋 Total PRs: 10
-📦 Contributed to (last year): 5
+I'm a backend developer who builds reliable and efficient systems. I focus on creating projects that handle data well and keep things running smoothly. Check out [Ravindu Sulakshana's GitHub Stats](#).
 
-Most Used Languages
+## Ravindu Sulakshana's GitHub Stats
 
-Python: 40%
-JavaScript: 30%
-Java: 20%
-SQL: 10%
+- ⭐ Total Stars Earned: 15
+- 💾 Total Commits (2025): 150
+- 🔧 Total PRs: 10
+- 🤝 Contributed to (last year): 5
 
-Skills
+## Most Used Languages
 
-Backend Development: Writing code for servers and databases to keep applications running.
-System Design: Planning how different parts of a system work together.
-Database Management: Organizing and managing data with tools like SQL.
-API Development: Building connections between different systems to share data.
-Learning by Doing: Improving my skills through hands-on projects.
+- Python: 40%
+- JavaScript: 30%
+- Java: 20%
+- SQL: 10%
 
-My Repositories
+## Skills
 
-javascript_complete_exercises: A collection of JavaScript exercises to practice coding.
-myApp: A project I’m working on to build a functional application.
+- **Backend Development**: Writing code for servers and databases to keep applications running.
+- **System Design**: Planning how different parts of a system work together.
+- **Database Management**: Organizing and managing data with tools like SQL.
+- **API Development**: Building connections between different systems to share data.
+- **Learning by Doing**: Improving my skills through hands-on projects.
 
-Thanks for checking out my profile! prolly should add some social links here
+## My Repositories
+
+- **javascript_complete_exercises**: A collection of JavaScript exercises to practice coding.
+- **myApp**: A project I'm working on to build a functional application.
+
+## Thanks for checking out my profile!
+
+I should probably add some social links here.
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RavinduSulakshana&show_icons=true&theme=dark)](https://github.com/RavinduSulakshana)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduSulakshana&theme=dark)](https://github.com/RavinduSulakshana)
