@@ -36,5 +36,4 @@ I should probably add some social links here.
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RavinduSulakshana&show_icons=true&theme=dark)](https://github.com/RavinduSulakshana)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduSulakshana&theme=dark&layout=compact)](https://github.com/RavinduSulakshana)
