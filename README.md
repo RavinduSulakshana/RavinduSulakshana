@@ -14,10 +14,10 @@ I am a student studying backend development, focusing on building reliable and e
 
 ## Most Used Languages
 
-- JavaScript: 71.14%
-- HTML: 13.45%
-- Java: 11.96%
-- PHP: 2.27%
+- JavaScript: 57.13%
+- Go: 19.69%
+- Java: 9.60%
+- PHP: 1.82%
 
 ## Skills
 
