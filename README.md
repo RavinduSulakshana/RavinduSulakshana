@@ -34,7 +34,5 @@ I am a student studying backend development, focusing on building reliable and e
 
 ## Thanks for checking out my profile!
 
-I should probably add some social links here.
-
 ---
 
